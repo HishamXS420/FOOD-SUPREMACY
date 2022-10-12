@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+}
+
+.Initial-title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    padding-left: 20px;
+    font-size: 35px;
+
+}
+
+.First-Portion {
+    display: flex;
+
+}
+
+.Hygienic {
+
+    color: red;
+}
+
+.Food-Supremacy-Interface {
+    background-image: linear-gradient(black, rgb(92, 14, 14));
+    background-repeat: repeat;
+    margin-top: 0;
+
+}
+
+#FOOD {
+    color: antiquewhite;
+    font-weight: 700;
+}
+
+#SUPREMACY {
+    color: goldenrod;
+    font-weight: 700;
+}
+
+.Women-1 {
+
+    width: 60%;
+    position: right;
+    padding-left: 300px;
+
+}
+
+.Beginning {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 70px;
+}
+
+#Women-2 {
+    width: 50%;
+    padding-top: 200px;
+    padding-left: 20px;
+}
+
+.Self-Introduction {
+    color: rgb(92, 14, 14);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 50px;
+    padding-top: 150px;
+
+}
+
+.Second-Portion {
+    display: flex;
+    background-image: url(Images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 100px;
+}
+
+#Rachel-Williams {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
